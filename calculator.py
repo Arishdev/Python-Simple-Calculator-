@@ -1,5 +1,4 @@
 # https://youtube.com/@ultimategaming1075 on Youtube
-
 i = int(input("First: "))
 e = int(input("Second: "))
 o = input("Operator (+,-,*,/): ")
