@@ -1,1 +1,7 @@
+To use the calculator just copy paste the code from calculator.py to your file (or just download and import in your application) after that if you run the code in console it will ask first question "First: " which reffers to as the first integer(number) i.e. 1,5,100. The second question that will show after you successfully put an answer in "First: " is "Second: " which also refers to as an integer(number)
 
+Note•Putting anything but an integer in first and second question will result in an error
+
+Atlast it will ask "Operator? (+,-,*,/) " for which theres only 4 possible answer + addition, - subtraction, * multiplication, / division.
+after that boom 💥 💥 💥 Your answer is there! Enjoy this simple and esay to learn calculator.
+Also subscribe to my yt - https://youtube.com/@ultimategaming1075 on Youtube
