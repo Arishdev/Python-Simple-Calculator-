@@ -1,6 +1,6 @@
 # https://youtube.com/@ultimategaming1075 on Youtube
-i = int(input("First: "))
-e = int(input("Second: "))
+i = float(input("First: "))
+e = float(input("Second: "))
 o = input("Operator (+,-,*,/): ")
 if o == "+":
 	print ("Answer is ", i + e)
